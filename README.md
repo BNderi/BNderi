@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BNderi
-- 👀 I’m interested in Microsoft 365 and it prosducts, Power Automate, PowerApps
+- 👀 I’m interested in Microsoft 365 and it products, Power Automate, PowerApps, Power Virtual Agents
 - 🌱 I’m currently learning Power Virtual Agents
 - 💞️ I’m looking to collaborate on business automation projects
 - 📫 How to reach me boronderi@gmail.com
